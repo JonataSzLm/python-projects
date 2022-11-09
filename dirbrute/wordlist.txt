@@ -1,0 +1,10 @@
+dashboard
+panel
+painel
+admin
+search
+busca
+noticias
+news
+etc
+robots.txt
